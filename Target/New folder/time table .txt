@@ -1,0 +1,12 @@
+time table :
+ 
+1. devops class: 8am -9am 
+2. devops lab : 9:30-11:30
+3. devops lab : 12:00-1:30 
+4. aws lab : 3:00-6:00 pm
+5. devops class: 7:30- 9:00 pm 
+6. aws lab : 10:00pm- 12:00pm
+ total hours :
+devops = 6 hours
+aws = 5 hours 
+ 
